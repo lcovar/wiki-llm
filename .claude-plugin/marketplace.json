@@ -1,0 +1,13 @@
+{
+  "name": "wiki-llm",
+  "owner": {
+    "name": "Luis Covarrubias"
+  },
+  "plugins": [
+    {
+      "name": "wiki",
+      "source": "./plugins/wiki",
+      "description": "Build and maintain LLM-compiled knowledge bases following the Karpathy wiki pattern"
+    }
+  ]
+}

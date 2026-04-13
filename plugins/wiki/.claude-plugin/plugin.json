@@ -1,0 +1,10 @@
+{
+  "name": "wiki",
+  "version": "0.1.0",
+  "description": "Build and maintain LLM-compiled knowledge bases following the Karpathy wiki pattern",
+  "author": {
+    "name": "Luis Covarrubias"
+  },
+  "license": "MIT",
+  "keywords": ["wiki", "knowledge-base", "karpathy", "rag", "documentation"]
+}
